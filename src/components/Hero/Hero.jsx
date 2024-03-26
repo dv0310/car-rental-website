@@ -35,8 +35,7 @@ const Hero = ({ theme }) => {
               Car Rental
             </h1>
             <p data-aos="fade-up" data-aos-delay="1000">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
-              veritatis explicabo quibusdam quae reprehenderit ab{" "}
+            Whether you need a car for a day, a week, or even a month, we offer flexible rental periods to accommodate your schedule. Enjoy the freedom to travel at your own pace without any time constraints.{" "}
             </p>
             <button
               data-aos="fade-up"
